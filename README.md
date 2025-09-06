@@ -10,8 +10,7 @@
 📚 매일 새로운 기술을 학습하며 더 나은 코드를 작성하려 노력합니다  
 🔥 문제를 해결하고 서비스를 개선하는 것에 열정을 가지고 있습니다
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seungwookc97&theme=radical&utc_offset=9)
-
+![](https://metrics.lecoq.io/seungwookc97?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=1&habits.days=14&habits.facts=true&habits.charts=true&habits.trim=false&config.timezone=Asia%2FSeoul)
 ---
 
 ## 🛠️ Tech Stack & Tools
