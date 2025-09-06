@@ -11,6 +11,7 @@
 🔥 문제를 해결하고 서비스를 개선하는 것에 열정을 가지고 있습니다
 
 ![](https://metrics.lecoq.io/seungwookc97?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=1&habits.days=14&habits.facts=true&habits.charts=true&habits.trim=false&config.timezone=Asia%2FSeoul)
+
 ---
 
 ## 🛠️ Tech Stack & Tools
