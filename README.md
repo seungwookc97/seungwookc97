@@ -1,5 +1,16 @@
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Hello%20World!%20👨‍💻&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Problem%20Solver&descAlignY=51&descAlign=62)
 
-![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seungwookc97&theme=radical)
+</div>
+
+## 👨‍💻 About Me
+
+🎯 **백엔드 개발자로 성장하고 있습니다**  
+📚 매일 새로운 기술을 학습하며 더 나은 코드를 작성하려 노력합니다  
+🔥 문제를 해결하고 서비스를 개선하는 것에 열정을 가지고 있습니다
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seungwookc97&theme=radical&utc_offset=9)
 
 ---
 
@@ -56,3 +67,4 @@
 </div>
 
 ---
+
