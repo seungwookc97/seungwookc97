@@ -1,6 +1,6 @@
-# 안녕하세요, 백엔드 개발자 최승욱입니다. 👋
+# 안녕하세요, 백엔드 개발자 최승욱입니다.
 
-
+![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=seungwookc97&theme=radical)
 
 ---
 
